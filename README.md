@@ -1,7 +1,7 @@
 # 🧑‍💻⚡ Gaurav - Tech Chatbot (LangChain + Groq + Streamlit)
 
 An AI-powered **tech chatbot** built using **LangChain, Groq LLM, and Streamlit**.  
-It answers only technical questions and provides a clean ChatGPT-like chat interface.
+It answers only technical questions and provides a clean chat interface.
 
 ##  Tech Stack
 
