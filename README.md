@@ -12,17 +12,21 @@ It answers only technical questions and provides a clean ChatGPT-like chat inter
 - dotenv
 
 ## 📁 Project Structure
+
+```
+langchain-groq-streamlit-app/
 │
 ├── app/
-│ ├── chains.py             # LangChain pipeline
-│ ├── llm.py                # Groq LLM setup
-│ ├── prompts.py            # System prompt
-│ ├── config.py             # API key & settings
+│   ├── chains.py        # LangChain pipeline
+│   ├── llm.py           # Groq LLM setup
+│   ├── prompts.py       # System prompt
+│   ├── config.py        # API key & settings
 │
-├── app.py                  # Streamlit entry point
-├── .env                    # Environment variables
+├── app.py               # Streamlit entry point
+├── .env                 # Environment variables
 ├── requirements.txt
-└── README.md
+├── README.md
+```
 
 **How to run Code:** 
 
