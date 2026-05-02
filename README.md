@@ -29,10 +29,11 @@ langchain-groq-streamlit-app/
 ```
 
 **How to run Code:** 
-
+```
 -Create virtual environment :uv venv
 -Install dependencies : pip install requirement.txt
 -Add environment variables
   -GROQ_API_KEY=your_groq_api_key_here
   -MODEL_NAME=openai/gpt-oss-120b
 - Run the application: streamlit run app.py
+```
